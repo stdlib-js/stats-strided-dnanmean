@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import dnanmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmean@esm/index.mjs';
+import dnanmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmean@v0.1.1-esm/index.mjs';
 ```
 
 #### dnanmean( N, x, strideX )
@@ -172,7 +172,7 @@ var v = dnanmean.ndarray( 5, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dnanmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmean@esm/index.mjs';
+import dnanmean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanmean@v0.1.1-esm/index.mjs';
 
 var x;
 var i;
