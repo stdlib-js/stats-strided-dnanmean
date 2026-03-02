@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-02)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6c8e3ef`](https://github.com/stdlib-js/stdlib/commit/6c8e3efe4a74238567a19eb5f1c2dbdfce6b04f1) - **bench:** use string interpolation in `stats/strided/dnanmean` [(#10617)](https://github.com/stdlib-js/stdlib/pull/10617) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
